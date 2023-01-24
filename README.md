@@ -1,5 +1,6 @@
 # jobyard-client
 
+A yoosys Project.
 
 
 ## Getting started
